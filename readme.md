@@ -7,3 +7,9 @@
 ### 参考文档
 
 [golang 官方文档](https://go.dev/doc/)
+
+### 本地打开
+
+```
+mdbook serve --open
+```

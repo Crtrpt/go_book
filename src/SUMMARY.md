@@ -1,9 +1,11 @@
 # 搞定 golang 编程
 
+- [前序](./start.md)
+
 # 开始
 
 - [安装](./ch1_1_install.md)
-- [开始](./ch1_2_getting_started.md)
+- [开始(hello world)](./ch1_2_getting_started.md)
 - [创建一个模块](./ch1_3_create_a_module.md)
 - [多个模块的工作区](./ch1_4_Getting_started_with_multi_module_workspaces.md)
 - [gin](./ch1_5_developing_a_restful_api_with_go_and_gin.md)
