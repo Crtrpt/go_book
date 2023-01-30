@@ -28,7 +28,7 @@ func AddS(a string, b string) string {
 	return a + b
 }
 
-func Add[T byte | int32 | float32 | string](a T, b T) T {
+func Add[T byte | int | int32 | float32 | string](a T, b T) T {
 	return a + b
 }
 
@@ -69,12 +69,12 @@ func main() {
 	fmt.Printf("%v \r\n", Add[byte](255, 2))
 	//返回 int32 257
 	fmt.Printf("%v \r\n", Add[int32](255, 2))
+	fmt.Printf("%v \r\n", Add(255, 2))
+	fmt.Printf("%v \r\n", Add(byte(255), byte(2)))
 
 	fmt.Printf("%v \r\n", PersonAdd(Crtrpt{Score: 20}, Alice{Score: 30}))
 
 }
-
-
 ```
 
 go 强类型语言
