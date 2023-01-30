@@ -6,12 +6,12 @@
 
 - [安装](./ch1_1_install.md)
 - [开始(hello world)](./ch1_2_getting_started.md)
-- [创建一个模块](./ch1_3_create_a_module.md)
-- [多个模块的工作区](./ch1_4_Getting_started_with_multi_module_workspaces.md)
-- [gin](./ch1_5_developing_a_restful_api_with_go_and_gin.md)
+- [创建一个模块(go mod)](./ch1_3_create_a_module.md)
+- [多个模块的工作区(go work)](./ch1_4_Getting_started_with_multi_module_workspaces.md)
+- [gin(web api)](./ch1_5_developing_a_restful_api_with_go_and_gin.md)
 - [泛型](./ch1_6_getting_started_with_generics.md)
 
-# 搞懂 go
+# 玩儿转 go
 
 - [基础](./ch2_1_effective_go.md)
 - [问题诊断](./ch2_2_diagnostics.md)
