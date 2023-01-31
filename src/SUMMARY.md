@@ -10,6 +10,7 @@
 - [多个模块的工作区(go work)](./ch1_4_Getting_started_with_multi_module_workspaces.md)
 - [gin(web api)](./ch1_5_developing_a_restful_api_with_go_and_gin.md)
 - [泛型](./ch1_6_getting_started_with_generics.md)
+- [模糊测试](./ch1_7_getting_started_with_fuzzing.md)
 
 # 玩儿转 go
 
@@ -17,8 +18,11 @@
 - [问题诊断](./ch2_2_diagnostics.md)
 - [垃圾回收](./ch2_3_a_guide_to_the_go_garbage_collector.md)
 - [依赖管理](./ch2_4_managing_dependencies.md)
-- [模糊测试](./ch2_5_getting_started_with_fuzzing.md)
+- [性能优化(pprof)](./ch2_5_profile_guided_optimization.md)
 - [应用覆盖率](./ch2_6_coverage_for_go_applications.md)
+- [运行时(runtime)](./ch2_7_runtime.md)
+- [环境变量](./ch2_8_environment_variables.md)
+- [竞态检测](./ch2_9_race_detector.md)
 
 # 访问数据库
 

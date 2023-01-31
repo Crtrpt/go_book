@@ -38,7 +38,14 @@ http://localhost:3000/ch1_2_getting_started.html
 
 ```
 https://github.com/Crtrpt/go-start/tree/ch1_2_getting_started
+
 ```
+
+## 路线图
+
+- 先把用 go 写应用弄明白(初级)
+- 再把用 go 写 go 原理弄明白(中级)
+- 搞通思想 架构 有造轮子的能力（中高级）
 
 ## 问题反馈
 
