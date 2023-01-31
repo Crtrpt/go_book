@@ -48,13 +48,14 @@
 - [gmp](./topic/gmp.md)
 - [channel](./topic/channel.md)
 
-# 框架/第三方库
+# 框架/第三方库/工具
 
 - [gin](./3rd/gin.md)
 - [xorm](./3rd/xorm.md)
 - [docker](./3rd/docker.md)
 - [k8s](./3rd/k8s.md)
 - [tinygo](./3rd/tinygo.md)
+- [fgprof](./3rd/fgprof.md)
 
 # 源码
 
